@@ -1,4 +1,9 @@
-bower-signalr
+npm-signalr
 =============
 
-Bower package for the SignalR JavaScript client. Source code is in the main repo at https://github.com/SignalR/SignalR, please log issues there.
+# This fork do only exist duo to the original [repo](https://github.com/SignalR/bower-signalr) is missing a package.json and can therefore not be installed by `npm`.
+
+Install:
+```
+$ npm install git@github.com:tjoskar/bower-signalr.git
+```
