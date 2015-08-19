@@ -5,5 +5,5 @@ npm-signalr
 
 Install:
 ```
-$ npm install git://github.com/tjoskar/bower-signalr.git
+$ npm install git+https://git@github.com/tjoskar/bower-signalr.git
 ```
